@@ -1,0 +1,62 @@
+/* Basic page setup */
+body {
+    background-color: #f2f7f7;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Header styling */
+header {
+    text-align: center;
+    background-color: darkcyan;
+    color: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+/* Section styling */
+section {
+    background-color: white;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px gray;
+}
+
+/* Headings */
+h2 {
+    color: darkolivegreen;
+}
+
+/* Lists */
+ul, ol {
+    margin-left: 20px;
+}
+
+/* Links */
+a {
+    color: darkblue;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+/* Image styling */
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    border: 3px solid darkcyan;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    font-size: 14px;
+    color: gray;
+    margin-top: 40px;
+}
